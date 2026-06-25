@@ -1,4 +1,4 @@
-# UMI Group — Claude Plugins
+# UMI Group - Claude Plugins
 
 Internal Claude plugin marketplace for Umi Group (Universal Motors Israel).
 
