@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "umi-bidi",
+  "displayName": "UMI Hebrew/English Bidi",
+  "version": "1.0.0",
+  "description": "Hebrew/English bidirectional text support for Umi Group. Enforces RTL rendering in chat and correct Unicode bidi markers for Office and WhatsApp.",
+  "author": {
+    "name": "Umi Group AI Engineering",
+    "email": "ai@umi.co.il"
+  },
+  "keywords": ["hebrew", "bidi", "rtl", "unicode", "office", "umi-group"],
+  "license": "UNLICENSED"
+}

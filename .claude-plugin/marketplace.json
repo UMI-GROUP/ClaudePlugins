@@ -1,0 +1,17 @@
+{
+  "name": "umi-group",
+  "owner": {
+    "name": "Umi Group AI Engineering",
+    "email": "ai@umi.co.il"
+  },
+  "description": "UMI Group internal Claude plugins",
+  "plugins": [
+    {
+      "name": "umi-bidi",
+      "displayName": "UMI Hebrew/English Bidi",
+      "source": "./umi-bidi",
+      "description": "Hebrew/English bidirectional text support for Umi Group employees. Enforces RTL rendering in chat and correct Unicode bidi markers for Office and WhatsApp.",
+      "version": "1.0.0"
+    }
+  ]
+}
