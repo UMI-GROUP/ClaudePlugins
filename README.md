@@ -51,4 +51,4 @@ Or in the UI: Settings → Plugins → find `umi-bidi` → Update.
 
 ## Maintained by
 
-Umi Group AI Engineering — ai@umi.co.il
+Umi Group Data & AI team - yoavp@umi.co.il
